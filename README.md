@@ -12,5 +12,5 @@ conda activate mlproj
 
 ´´´
 bash
-conda activate mlproj
+pip install -r requirements.txt
 ´´´
